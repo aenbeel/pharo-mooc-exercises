@@ -1,0 +1,1 @@
+An object that keeps a count.

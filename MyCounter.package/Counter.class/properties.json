@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "aenbeel 8/22/2020 13:14",
+	"super" : "Object",
+	"category" : "MyCounter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"count"
+	],
+	"name" : "Counter",
+	"type" : "normal"
+}
