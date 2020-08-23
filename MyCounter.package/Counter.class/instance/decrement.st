@@ -1,5 +1,5 @@
 accessing
-increment: anInteger
+decrement
 	"a method to retrieve the current count"
 			
-	count := count + anInteger
+	self decrementBy: 1
